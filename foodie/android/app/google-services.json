@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "758803538863",
+    "firebase_url": "https://foodie-7d973.firebaseio.com",
+    "project_id": "foodie-7d973",
+    "storage_bucket": "foodie-7d973.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758803538863:android:33123e6db5aa10599f455a",
+        "android_client_info": {
+          "package_name": "com.datia.foodie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758803538863-m4b4dpt2ttbaguvfn2hiamfn1uf7qo5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.datia.foodie",
+            "certificate_hash": "ec2557a0fcfc90d39e456aef28901ad9053bdcab"
+          }
+        },
+        {
+          "client_id": "758803538863-g47pee30kqqoajuod7e15fku6erpo2sa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.datia.foodie",
+            "certificate_hash": "9ed22d2de9919696dcf02003fbca776eea45038c"
+          }
+        },
+        {
+          "client_id": "758803538863-vqsise4ajo2m97o8clur57utnuqrfgv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU8akaSSdRYnpRi1Ynlb43gwC3F-Lp4Uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758803538863-vqsise4ajo2m97o8clur57utnuqrfgv2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "758803538863-go9ie3g0f6k9jc138sdllp8hde3lnvu5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.datiastudio.ohfoodie",
+                "app_store_id": "1499563262"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
